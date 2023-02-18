@@ -3,6 +3,7 @@
 - 🌱 I’m currently studying for my bachelor degree for Information Management.
 - 👀 My inierests are gaming, volleyball, and make cool stuff with codes!
 - 📫 How to reach me : changliseng0903@gmail.com
+- My resume : https://drive.google.com/file/d/1U-kGhIEOeXUo93Xx6b06oYZJGeVUhbDs/view?usp=sharing
 
 <!---
 LiSeng0903/LiSeng0903 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
